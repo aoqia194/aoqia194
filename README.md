@@ -1,22 +1,22 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 December 2023 - To: 14 December 2024
+From: 21 December 2023 - To: 15 December 2024
 
-Total Time: 695 hrs 9 mins
+Total Time: 701 hrs 20 mins
 
-Lua                   325 hrs 26 mins ############-------------   46.57 %
-Java                  112 hrs 5 mins  ####---------------------   16.04 %
-Python                74 hrs 1 min    ###----------------------   10.59 %
-Rust                  67 hrs 22 mins  ##-----------------------   09.64 %
-Groovy                25 hrs 2 mins   #------------------------   03.58 %
-Text                  23 hrs 56 mins  #------------------------   03.43 %
-Gradle                11 hrs 58 mins  -------------------------   01.71 %
-Markdown              7 hrs 33 mins   -------------------------   01.08 %
-GLSL                  6 hrs 44 mins   -------------------------   00.97 %
-TypeScript            6 hrs 20 mins   -------------------------   00.91 %
-ReScript              5 hrs 25 mins   -------------------------   00.78 %
-Other                 3 hrs 36 mins   -------------------------   00.52 %
+Lua                   325 hrs 26 mins ############-------------   46.16 %
+Java                  115 hrs 50 mins ####---------------------   16.43 %
+Python                74 hrs 1 min    ###----------------------   10.50 %
+Rust                  67 hrs 22 mins  ##-----------------------   09.56 %
+Groovy                26 hrs 22 mins  #------------------------   03.74 %
+Text                  23 hrs 59 mins  #------------------------   03.40 %
+Gradle                12 hrs 26 mins  -------------------------   01.77 %
+Markdown              7 hrs 38 mins   -------------------------   01.08 %
+GLSL                  6 hrs 44 mins   -------------------------   00.96 %
+TypeScript            6 hrs 22 mins   -------------------------   00.90 %
+ReScript              5 hrs 25 mins   -------------------------   00.77 %
+Other                 3 hrs 45 mins   -------------------------   00.53 %
 ```
 
 <!--END_SECTION:waka-->
