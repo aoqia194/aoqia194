@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 December 2023 - To: 18 February 2025
+From: 21 December 2023 - To: 19 February 2025
 
-Total Time: 941 hrs 19 mins
+Total Time: 941 hrs 40 mins
 
-Lua                   340 hrs 45 mins #########----------------   36.05 %
-Java                  234 hrs 58 mins ######-------------------   24.86 %
+Lua                   340 hrs 45 mins #########----------------   36.03 %
+Java                  235 hrs 1 min   ######-------------------   24.85 %
 Python                74 hrs 1 min    ##-----------------------   07.83 %
 Rust                  73 hrs 21 mins  ##-----------------------   07.76 %
 C++                   57 hrs 53 mins  ##-----------------------   06.12 %
-Groovy                29 hrs 55 mins  #------------------------   03.17 %
+Groovy                30 hrs 7 mins   #------------------------   03.19 %
 Text                  28 hrs 8 mins   #------------------------   02.98 %
-Gradle                16 hrs 16 mins  -------------------------   01.72 %
+Gradle                16 hrs 17 mins  -------------------------   01.72 %
 CMake                 9 hrs 40 mins   -------------------------   01.02 %
 Markdown              9 hrs 26 mins   -------------------------   01.00 %
 GLSL                  6 hrs 44 mins   -------------------------   00.71 %
